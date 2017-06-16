@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* Récupérer un modèle sur Github
+* [Mettre un modèle sur Github](chapter1.md)
+* [Attribuer un DOI à un modèle sur Github](attribuer-un-doi.md)
+
