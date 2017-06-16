@@ -105,7 +105,7 @@ Entrez l'adresse git https qui vous a été donné par votre voisin, et indiquez
 
 Appuyez ensuite sur le bouton **[Cloner]**
 
-C:\Users\reyse\Desktop\2017-06-16 23_42_38-Repository.jpg
+
 
 
 
