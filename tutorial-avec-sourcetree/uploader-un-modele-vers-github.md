@@ -95,6 +95,17 @@ Vous pouvez partager l'url en https qui apparait (**https://github.com/$VOTRELOG
 
 ## Cloner et modifier un dépot existant en ligne
 
+Dans **SourceTree**, cliquez sur l'icone **[Clone]**
+
+![](/assets/2017-06-16 23_31_23-SourceTree.jpg)
+
+Entrez l'adresse git https qui vous a été donné par votre voisin, et indiquez l'endroit ou vous voulez que soit cloner le dépot en ligne sur votre ordinateur. Nous choisissons de le mettre dans le même répertoire **Repository**, sous le nom **modeleDeMonVoisin** (Attention, le dossier ne doit pas exister !) 
+
+![](/assets/2017-06-16 23_39_12-SourceTree.jpg)
+
+Appuyez ensuite sur le bouton **[Cloner]**
+
+C:\Users\reyse\Desktop\2017-06-16 23_42_38-Repository.jpg
 
 
 
@@ -102,4 +113,4 @@ Vous pouvez partager l'url en https qui apparait (**https://github.com/$VOTRELOG
 
 
 
-
+**
