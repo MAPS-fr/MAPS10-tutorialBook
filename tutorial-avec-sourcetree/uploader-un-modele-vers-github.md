@@ -11,3 +11,11 @@ Télécharger le [zip](assets/modeleMaps.zip) suivant, qui contient le modele an
 ## Créer un repository git 
 
 Lancer le logiciel SourceTree qui sert de client graphique pour le programme git. Normalement vous devez déjà avoir configuré le logiciel pour fonctionner avec GitHub. Si ce n'est pas le cas faite d'abord la partie [prérequis](../prerequis.md).
+
+Dans la barre de menu, cliquez sur l'onglet **Create** et remplissez les champs ainsi : 
+
+![](/assets/2017-06-16 21_59_36-SourceTree.jpg)
+
+Normalement, le **[Repository Settings]** indique votre compte utilisateur GitHub.
+
+
