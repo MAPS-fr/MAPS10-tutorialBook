@@ -14,12 +14,14 @@ Comme Dropbox, Git va observer tout ce que vous faites dans un répertoire en pa
 
 ## Github
 
-GitHub est un site web qui permet de déposer vos dépots git en ligne. 
+GitHub est tout simplement un site web qui permet de déposer vos dépots git en ligne. Il en existe d'autres (gitlab, gog, etc.), mais github est le premier et le plus gros hub de partage de code source dans le monde.
 
+Github est gratuit pour les codes sources qui sont publique, et donc open-source. Si vous souhaitez que vos dépots soit masqués, alors il vous faudra dépenser un peu d'argent pour un abonnement.
 
 # Créer un compte Github
 
+Rien de plus simple, il suffit d'aller sur le site https://github.com/
 
-# 
+
 
 
