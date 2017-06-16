@@ -53,14 +53,27 @@ Cliquez sur le bouton **[ToutIndexer]** pour que git commence à suivre les modi
 
 ![](/assets/2017-06-16 22_39_43-SourceTree.jpg)
 
-Validons ce nouvel état du dépot. Pour cela il suffit de rentrer un message dans la fenetre du bas, qui sert à indiquer aux autres utilisateurs du dépot les modifications que nous avons faites sur le modèle. Dans le cas présent nous avons juste ajouter des fichiers. Cliquez ensuite sur [valider]
+Validons ce nouvel état du dépot. Pour cela il suffit de rentrer un message dans la fenetre du bas, qui sert à indiquer aux autres utilisateurs du dépot les modifications que nous avons faites sur le modèle. Dans le cas présent nous avons juste ajouter des fichiers.
 
+![](/assets/2017-06-16 22_43_11-SourceTree.jpg)
 
+ Cliquez ensuite sur **[valider]** (ce qui correspond à la commande `commit `dans git) pour voir ce qu'il se passe. De nouveau **SourceTree** qu'il n'y a plus rien à valider. Pour le moment nous avons juste travailler en local, cliquez sur la flèche **[envoyer]** du bandeau pour envoyer les modifications que nous venons de faire sur GitHub. Une fenetre s'ouvre, cochez la case dans la colonne **[Envoyer]** puis cliquez sur le bouton **[Envoyer]**
+ 
+ ![](/assets/2017-06-16 22_46_58-SourceTree.jpg)
 
+Si vous retournez voir votre dépot en ligne sur le site GitHub, celle-ci a été mise à jour.
+
+![](/assets/2017-06-16 22_49_47-reyman_monModeleMaps.jpg)
 
 ## Suivi des modifications
 
-Faisons une modifications dans le fichier `Ants.nlogo` pour voir ce qu'il se passe dans SourceTree.
+Faisons une modifications dans le fichier `Ants.nlogo` pour voir ce qu'il se passe dans SourceTree. 
+
+Comme vous pouvez le voir sur l'image ci-dessous, git a detecté que j'ai modifié la taille et la couleur des fourmis. En rouge apparait ce qui a été supprimé, et en vert ce qui a été ajouté.
+
+![](/assets/2017-06-16 22_51_47-SourceTree.jpg)
+
+Pour valider ces modifications, il faut à nouveau **[indexer]** le fichier, puis le **[valider]** en écrivant un message explicatif.
 
 ## bla
 
