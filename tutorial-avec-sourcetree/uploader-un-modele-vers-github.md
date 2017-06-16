@@ -1,4 +1,3 @@
-# Updloader votre modèle sur GitHub
 
 Remarques : les éléments entre **$$**, comme **$VOTRENOM$** doivent être adapté par vos soins pour votre ordinateur.
 
@@ -20,11 +19,21 @@ Dans la barre de menu, cliquez sur l'onglet **Create** qui permet d'initialiser 
 
 SourceTree va créer un nouveau dépot "**monModeleMaps**" dans `C:\Users\$VOTRENOM$\Documents\Repository\` et le relier à votre compte utilisateur GitHub **[Repository Settings]** lorsque vous allez appuyer sur le bouton **[Créer]**.
 
-Après création, voici l'interface de gestion de votre dépot git : 
+Des informations vous sont demandées, elles serviront à identifier les modifications par la suite.
 
+![](/assets/2017-06-16 22_21_22-SourceTree.jpg)
 
+Après création, voici l'interface de gestion de votre dépot git.  
+
+![](/assets/2017-06-16 22_25_10-SourceTree.jpg)# Updloader votre modèle sur GitHub
 
 Le dépot git vide apparait en local dans `C:\Users\$VOTRENOM$\Documents\Repository\monModeleMaps` et en ligne sur github à l'url suivante **https://github.com/$VOTRELOGINGITHUB$/monModeleMaps**
+
+Comme vous le voyez il n'y a rien.
+ 
+A nouveau dans **SourceTree**, cliquez sur le petit **+** pour ouvrir un nouvel onglet.
+
+![](/assets/2017-06-16 22_27_37-SourceTree.jpg)
 
 A tout moment vous pouvez voir les dépot git en local en cliquant sur l'icone **[Local]** dans la barre, et les dépot git en ligne en cliquant sur l'icone **[Remote]**
 
