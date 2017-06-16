@@ -112,7 +112,7 @@ Comme vous pouvez le constater, un nouveau dossier est apparu dans votre arbores
 Nous allons rajouter un fichier `README.md` à ce dépot **modeleDeMonVoisin**. Ce fichier est automatiquement affiché en page d'accueil du dépot lorsqu'on se rend sur l'url du site, c'est pratique par exemple pour mettre de la documentation. Ajouter ce texte au fichier `README.md` : 
 
 ```
-#Documentation
+# Documentation
 Ouvrir le fichier .nlogo avec Netlogo 6.1
 ```
 
@@ -131,6 +131,8 @@ Une fenetre s'ouvre, faite simplement **[Ok]**
 ![](/assets/2017-06-16 23_54_03-(modified) Créer, modifier et publier un dépot git — GitBook Editor.jpg)
 
 Voilà, nous avons récupérer les modifications faites par votre voisin ! Vous pouvez consulter l'url du dépot sur github pour voir l'affichage du `README.md`
+
+![](/assets/2017-06-16 23_55_27-AsPowerBar.jpg)
 
 
 
