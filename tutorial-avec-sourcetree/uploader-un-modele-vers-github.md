@@ -16,9 +16,9 @@ Lancer le logiciel SourceTree qui sert de client graphique pour le programme git
 
 Dans la barre de menu, cliquez sur l'onglet **Create** qui permet d'initialiser un nouveau depot git vide : 
 
-![](/assets/2017-06-16 22_09_53-SourceTree.jpg)
+![](/assets/2017-06-16 22_19_36-SourceTree.jpg)
 
-SourceTree va créer un nouveau dépot "monModeleMaps" dans `C:\Users\$VOTRENOM$\Documents\` et le relier à votre compte utilisateur GitHub **[Repository Settings]** lorsque vous allez appuyer sur le bouton **[Créer]**.
+SourceTree va créer un nouveau dépot "monModeleMaps" dans `C:\Users\$VOTRENOM$\Documents\Repository\` et le relier à votre compte utilisateur GitHub **[Repository Settings]** lorsque vous allez appuyer sur le bouton **[Créer]**.
 
 ## Le modèle Netlogo 
 
