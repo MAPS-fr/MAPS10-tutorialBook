@@ -45,8 +45,13 @@ Nous allons à présent **ajouter des fichiers** à notre nouveau dépot.
 
 Télécharger le [zip suivant](assets/modeleMaps.zip) , qui contient le modele `ants.nlogo`, et décompresser le. Faite ensuite glisser les fichiers `Ants.nlogo` et `Ants.png` dans notre dépot `C:\Users\$VOTRENOM$\Documents\Repository\monModeleMaps`
 
+Si vous revenez dans l'onglet **monModeleMaps** vous verrez que les fichiers sont apparus dans la fenêtre du bas. Comme ce sont de nouveau fichier, **SourceTree** nous indique qu'il ne sont pas encore indexé par git, ce qui est le comportement par défaut.
 
+![](/assets/2017-06-16 22_34_16-SourceTree.jpg) 
+  
+Cliquez sur le bouton **[ToutIndexer]** pour que git commence à suivre les modifications sur ces fichiers. Comme vous le voyez les fichiers passe dans la zone du haut.
 
+![](/assets/2017-06-16 22_39_43-SourceTree.jpg)
 
 
 ## bla
