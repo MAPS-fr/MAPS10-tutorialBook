@@ -99,18 +99,41 @@ Dans **SourceTree**, cliquez sur l'icone **[Clone]**
 
 ![](/assets/2017-06-16 23_31_23-SourceTree.jpg)
 
-Entrez l'adresse git https qui vous a été donné par votre voisin, et indiquez l'endroit ou vous voulez que soit cloner le dépot en ligne sur votre ordinateur. Nous choisissons de le mettre dans le même répertoire **Repository**, sous le nom **modeleDeMonVoisin** (Attention, le dossier ne doit pas exister !) 
+Entrez l'adresse git https qui vous a été donné par votre voisin, et indiquez l'endroit ou vous voulez que soit cloner le dépot en ligne sur votre ordinateur. Nous choisissons de le mettre dans le même répertoire **Repository**, sous le nom **modeleDeMonVoisin** (Attention, le dossier ne doit pas exister !!) 
 
 ![](/assets/2017-06-16 23_39_12-SourceTree.jpg)
 
 Appuyez ensuite sur le bouton **[Cloner]**
 
+Comme vous pouvez le constater, un nouveau dossier est apparu dans votre arborescence : 
+
+![](/assets/2017-06-16 23_42_38-Repository.jpg)
+
+Nous allons rajouter un fichier `README.md` à ce dépot **modeleDeMonVoisin**. Ce fichier est automatiquement affiché en page d'accueil du dépot lorsqu'on se rend sur l'url du site, c'est pratique par exemple pour mettre de la documentation. Ajouter ce texte au fichier `README.md` : 
+
+```
+#Documentation
+Ouvrir le fichier .nlogo avec Netlogo 6.1
+```
+
+Revenez dans SourceTree, à l'onglet **modeleDeMonVoisin**. Comme vu précédemment, **[Indexer]** le fichier, ajouter un message dans le formulaire en bas, et **[Valider]**.
+
+![](/assets/2017-06-16 23_50_13-SourceTree.jpg)
+
+# Récupérer des modifications faites sur le dépot en ligne
+
+Nous allons maintenant tenter de recupérer les modifications faites par votre voisin sur votre projet. Pour cela revenez dans l'onglet **monModeleMaps** et cliquer sur l'icone **[Récupérer]**.
+
+![](/assets/2017-06-16 23_52_45-SourceTree.jpg)
+
+Une fenetre s'ouvre, faite simplement **[Ok]**
+
+![](/assets/2017-06-16 23_54_03-(modified) Créer, modifier et publier un dépot git — GitBook Editor.jpg)
+
+Voilà, nous avons récupérer les modifications faites par votre voisin ! Vous pouvez consulter l'url du dépot sur github pour voir l'affichage du `README.md`
 
 
 
 
 
 
-
-
-**
