@@ -37,9 +37,14 @@ A nouveau dans **SourceTree**, cliquez sur le petit **+** pour ouvrir un nouvel 
 
 A tout moment vous pouvez voir les dépot git en local en cliquant sur l'icone **[Local]** dans la barre, et les dépot git en ligne en cliquant sur l'icone **[Remote]**
 
-Nous allons à présent ajouter des fichiers à notre nouveau dépot.
+![](/assets/2017-06-16 22_30_51-SourceTree.jpg)
+
+Nous allons à présent **ajouter des fichiers** à notre nouveau dépot.
 
 ## Le modèle Netlogo 
 
-Télécharger le [zip suivant](assets/modeleMaps.zip) , qui contient le modele `ants.nlogo`, et décompresser le dans votre nouveau dépot git `C:\Users\$VOTRENOM$\Documents\Repository\monModeleMaps`
+Télécharger le [zip suivant](assets/modeleMaps.zip) , qui contient le modele `ants.nlogo`, et décompresser le. Faite ensuite glisser les fichiers `Ants.nlogo` et `Ants.png` dans notre dépot `C:\Users\$VOTRENOM$\Documents\Repository\monModeleMaps`
+
+
+
 
