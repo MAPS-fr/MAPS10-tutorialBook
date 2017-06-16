@@ -17,5 +17,4 @@ Dans la barre de menu, cliquez sur l'onglet **Create** et remplissez les champs 
 ![](/assets/2017-06-16 21_59_36-SourceTree.jpg)
 
 Normalement, le **[Repository Settings]** indique votre compte utilisateur GitHub.
-
-
+Vous pouvez appuyer sur le bouton **[Créer]**
