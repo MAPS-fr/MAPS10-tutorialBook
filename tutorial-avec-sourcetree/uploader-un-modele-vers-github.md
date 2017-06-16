@@ -20,11 +20,17 @@ Dans la barre de menu, cliquez sur l'onglet **Create** qui permet d'initialiser 
 
 SourceTree va créer un nouveau dépot "**monModeleMaps**" dans `C:\Users\$VOTRENOM$\Documents\Repository\` et le relier à votre compte utilisateur GitHub **[Repository Settings]** lorsque vous allez appuyer sur le bouton **[Créer]**.
 
+Après création, voici l'interface de gestion de votre dépot git : 
+
+
+
 Le dépot git vide apparait en local dans `C:\Users\$VOTRENOM$\Documents\Repository\monModeleMaps` et en ligne sur github à l'url suivante **https://github.com/$VOTRELOGINGITHUB$/monModeleMaps**
 
 A tout moment vous pouvez voir les dépot git en local en cliquant sur l'icone **[Local]** dans la barre, et les dépot git en ligne en cliquant sur l'icone **[Remote]**
 
+Nous allons à présent ajouter des fichiers à notre nouveau dépot.
+
 ## Le modèle Netlogo 
 
-
 Télécharger le [zip suivant](assets/modeleMaps.zip) , qui contient le modele `ants.nlogo`, et décompresser le dans votre nouveau dépot git `C:\Users\$VOTRENOM$\Documents\Repository\monModeleMaps`
+
