@@ -5,9 +5,7 @@ Remarques : les éléments entre **$$**, comme **$VOTRENOM$** doivent être adap
 
  Le répertoire sous Windows qui correspond à vos document est le suivant : `C:\Users\$VOTRENOM$\Documents\` 
 
-
 Dans ce répertoire nous allons créer un dossier "**Repository**" qui contiendra le dépot git de notre modèle. Attention à la majuscule...
-
 
 ## Créer un repository git 
 
@@ -75,7 +73,20 @@ Comme vous pouvez le voir sur l'image ci-dessous, git a detecté que j'ai modifi
 
 Pour valider ces modifications, il faut à nouveau **[indexer]** le fichier, puis le **[valider]** en écrivant un message explicatif.
 
-## bla
+Si vous cliquez sur la droite sur l'icone **[BRANCHES]**, puis **[master]** vous pouvez observer l'historique du projet, avec, ce qui est important, la possibilité de visionner les modifications en cliquant sur les différentes lignes. Il est également possible de revenir en arrière, mais nous en parlerons ensuite.
+
+![](/assets/2017-06-16 22_59_25-SourceTree.jpg)
+
+Si nous nous intéressons aux deux lignes suivantes, l'état du dépot local est indiqué par l'icone [master], et l'état du dépot en ligne par l'icone [origin/master]. 
+
+![](/assets/2017-06-16 23_02_13-SourceTree.jpg)
+
+Comme vous vous en doutiez, l'état local est en effet en avance sur le dépot central, cliquons sur **[envoyer]** pour synchroniser les deux dépots, comme ci dessous. Vous pouvez regarder en ligne sur github pour vérifier.
+
+![](/assets/2017-06-16 23_06_00-SourceTree.jpg)
+
+
+## Partager votre dépot
 
 
 
