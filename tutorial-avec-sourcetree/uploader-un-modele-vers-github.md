@@ -85,8 +85,20 @@ Comme vous vous en doutiez, l'état local est en effet en avance sur le dépot c
 
 ![](/assets/2017-06-16 23_06_00-SourceTree.jpg)
 
-
 ## Partager votre dépot
+
+Aller sur l'url de votre modèle github **https://github.com/$VOTRELOGINGITHUB$/monModeleMaps** et cliquez sur le bouton clone or download.
+
+![](/assets/2017-06-16 23_27_46-reyman_monModeleMaps.jpg) 
+
+Vous pouvez partager l'url en https qui apparait (**https://github.com/$VOTRELOGINGITHUB$/monModeleMaps.git**) avec votre voisin qui va à présent tenter de cloner votre dépot sur son ordinateur et d'ajouter un fichier README.md
+
+## Cloner et modifier un dépot existant en ligne
+
+
+
+
+
 
 
 
