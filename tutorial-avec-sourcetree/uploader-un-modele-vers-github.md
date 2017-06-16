@@ -8,8 +8,6 @@ Supposons que notre modèle Netlogo se situe dans votre répertoire utilisateur 
 
 Télécharger le [zip](assets/modeleMaps.zip) suivant, qui contient le modele ants.nlogo, et decompresser le dans vos documents.
 
-
-
 ## Créer un repository git 
 
-Lancer SourceTree
+Lancer le logiciel SourceTree qui sert de client graphique pour le programme git.
