@@ -26,3 +26,8 @@ Mais tout d'abord il faut créer un compte github ...
 
 Rien de plus simple, il suffit d'aller sur le site https://github.com/
 
+# Configurer SourceTree (Windows, MacOSX)
+
+
+
+
