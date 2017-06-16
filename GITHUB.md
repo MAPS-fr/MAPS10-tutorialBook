@@ -20,8 +20,7 @@ Dans github vous avez deux possibilités pour créer un dépot :
 - créer un dépot en ligne via github, et ensuite le cloner sur votre ordinateur
 - créer un dépot sur votre ordinateur et ensuite l'envoyer sur github
 
-Mais tout d'abord il faut créer un compte GitHub ...
- 
+Nous allons privilégier la seconde approche dans les tutoriaux car l'approche est plus naturelle.
 
 
 
