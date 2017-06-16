@@ -41,7 +41,7 @@ A tout moment vous pouvez voir les dépot git en local en cliquant sur l'icone *
 
 Nous allons à présent **ajouter des fichiers** à notre nouveau dépot.
 
-## Le modèle Netlogo 
+## Ajout du modèle Netlogo au dépot
 
 Télécharger le [zip suivant](assets/modeleMaps.zip) , qui contient le modele `ants.nlogo`, et décompresser le. Faite ensuite glisser les fichiers `Ants.nlogo` et `Ants.png` dans notre dépot `C:\Users\$VOTRENOM$\Documents\Repository\monModeleMaps`
 
@@ -53,6 +53,14 @@ Cliquez sur le bouton **[ToutIndexer]** pour que git commence à suivre les modi
 
 ![](/assets/2017-06-16 22_39_43-SourceTree.jpg)
 
+Validons ce nouvel état du dépot. Pour cela il suffit de rentrer un message dans la fenetre du bas, qui sert à indiquer aux autres utilisateurs du dépot les modifications que nous avons faites sur le modèle. Dans le cas présent nous avons juste ajouter des fichiers. Cliquez ensuite sur [valider]
+
+
+
+
+## Suivi des modifications
+
+Faisons une modifications dans le fichier `Ants.nlogo` pour voir ce qu'il se passe dans SourceTree.
 
 ## bla
 
