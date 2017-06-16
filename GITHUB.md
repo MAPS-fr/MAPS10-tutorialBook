@@ -10,17 +10,18 @@ L'organisation MAPS par exemple regroupe plusieurs dépots avec les modèles et 
 
 Github est gratuit pour les codes sources qui sont publics, et donc open-source. Si vous souhaitez que vos dépots soit privés, alors il vous faudra dépenser un peu d'argent pour un abonnement.
 
-# Fonctionnement
+# Fonctionnement général
 
 Dans tous les cas il faut comprendre que le dépot local (votre ordinateur) et le dépot en ligne (github, ou autre site) sont liés entre eux. Toutes les personnes qui ont cloné un dépot en ligne sur leur ordinateur local peuvent modifier les fichiers et ensuite renvoyer les modification au dépot en ligne. Github permet d'organiser et de centraliser ces échanges de versions entre développeurs. C'est donc aussi un peu un réseau social pour développeur.
 
 Il faut bien noter que la synchronisation entre un dépot en ligne et un dépot local ne se fait pas automatiquement comme dans le cas de Dropbox. Chaque utilisateur va devoir taper des commandes (dans un terminal) ou cliquer sur des boutons (si on est dans une interface graphique)
 
-Dans github vous avez deux possibilités :
+Dans github vous avez deux possibilités pour créer un dépot :
 - créer un dépot en ligne via github, et ensuite le cloner sur votre ordinateur
 - créer un dépot sur votre ordinateur et ensuite l'envoyer sur github
 
-
+Mais tout d'abord il faut créer un compte github ...
+ 
 # Créer un compte Github
 
 Rien de plus simple, il suffit d'aller sur le site https://github.com/
