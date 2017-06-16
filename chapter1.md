@@ -18,12 +18,27 @@ Comme Dropbox, Git va observer tout ce que vous faites dans un répertoire en pa
 
 ### Les commandes/mots-clefs
 
-Lorsqu'on parle de recopier un **dépot** en ligne vers un ordinateur en local, on parle de **cloner** ce dépot. La commande `git clone` permet de réaliser cette action.
+**Cloner un dépôt git** : 
 
+Lorsqu'on parle de recopier un **dépot** en ligne vers un ordinateur en local, on parle de **cloner** ce dépot. 
+
+La commande `git clone` permet de réaliser cette action.
 ```
 git clone https://github.com/MAPS-fr/MAPS-10.git
+
 ```
 
+**Ajouter des fichiers** : 
+
+Par défaut les nouveaux fichiers dans le dépôt ne sont pas suivis. Il faut faire la commande `git add nomdufichier` pour que git commence à suivre un fichier. Vous pouvez aussi demander à git de suivre tous les fichiers d'un répertoire en une fois avec la commande `git add .`
+
+**Enregistrer l'état des modifications** : 
+
+`git commit`
+
+** Récupérer les modifications du dépôt central** : 
+
+`git pull`
 
 ## Github
 
