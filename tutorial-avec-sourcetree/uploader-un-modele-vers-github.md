@@ -4,9 +4,11 @@ Remarques : les éléments entre **$$**, comme **$VOTRENOM$** doivent être adap
 
 ## Le modèle Netlogo
 
-Supposons que notre modèle Netlogo se situe dans votre répertoire utilisateur **"Mes Documents"**, c'est à dire plus précisément sous Windows le répertoire `C:\Users\$VOTRENOM$\Documents\modelesMAPS\`
+ Le répertoire sous Windows qui correspond à vos document est le suivant : `C:\Users\$VOTRENOM$\Documents\` 
 
-Télécharger le [zip](assets/modeleMaps.zip) suivant, qui contient le modele ants.nlogo, et decompresser le dans vos documents.
+
+Dans ce répertoire nous allons créer un dossier "**Repository**" qui contiendra le dépot git de notre modèle. Attention à la majuscule...
+
 
 ## Créer un repository git 
 
@@ -14,7 +16,11 @@ Lancer le logiciel SourceTree qui sert de client graphique pour le programme git
 
 Dans la barre de menu, cliquez sur l'onglet **Create** et remplissez les champs ainsi : 
 
-![](/assets/2017-06-16 21_59_36-SourceTree.jpg)
-
 Normalement, le **[Repository Settings]** indique votre compte utilisateur GitHub.
 Vous pouvez appuyer sur le bouton **[Créer]**
+
+## Le modèle Netlogo 
+
+Supposons que notre modèle Netlogo se situe dans votre répertoire utilisateur **"Mes Documents"**.
+
+Télécharger le [zip suivant](assets/modeleMaps.zip) , qui contient le modele `ants.nlogo`, et décompresser le dans **"Mes Documents"**
