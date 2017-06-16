@@ -22,15 +22,13 @@ Lors de l'installation le logiciel SourceTree va vous demander de vous identifie
 
 ![](/assets/Screen+Shot+2016-09-13+at+10.42.52+AM.png)
 
-L'installeur va ensuite vous demander de lier le logiciel SourceTree avec un gestionnaire de dépôt en ligne, choisissez l'option [**GitHub**] et renseigner votre [**Username**] et [**Password**]
+L'installeur va ensuite vous demander de lier le logiciel **SourceTree** avec un gestionnaire de dépôt en ligne, choisissez l'option [**GitHub**] et renseigner votre [**Username**] et [**Password**] GitHub.
 
 ![](/assets/Screen+Shot+2016-09-13+at+10.38.42+AM.png)
 
 
 
 # Solution " Un-Par-Un " (Tout OS)
-
-
 
 ## Installation de GIT 
 

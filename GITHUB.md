@@ -20,14 +20,8 @@ Dans github vous avez deux possibilités pour créer un dépot :
 - créer un dépot en ligne via github, et ensuite le cloner sur votre ordinateur
 - créer un dépot sur votre ordinateur et ensuite l'envoyer sur github
 
-Mais tout d'abord il faut créer un compte github ...
+Mais tout d'abord il faut créer un compte GitHub ...
  
-# Créer un compte Github
-
-Rien de plus simple, il suffit d'aller sur le site https://github.com/
-
-# Configurer SourceTree (Windows, MacOSX)
-
 
 
 
