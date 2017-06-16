@@ -18,7 +18,11 @@ Dans la barre de menu, cliquez sur l'onglet **Create** qui permet d'initialiser 
 
 ![](/assets/2017-06-16 22_19_36-SourceTree.jpg)
 
-SourceTree va créer un nouveau dépot "monModeleMaps" dans `C:\Users\$VOTRENOM$\Documents\Repository\` et le relier à votre compte utilisateur GitHub **[Repository Settings]** lorsque vous allez appuyer sur le bouton **[Créer]**.
+SourceTree va créer un nouveau dépot "**monModeleMaps**" dans `C:\Users\$VOTRENOM$\Documents\Repository\` et le relier à votre compte utilisateur GitHub **[Repository Settings]** lorsque vous allez appuyer sur le bouton **[Créer]**.
+
+Le dépot git vide apparait en local dans `C:\Users\$VOTRENOM$\Documents\Repository\monModeleMaps` et en ligne sur github à l'url suivante **https://github.com/$VOTRELOGINGITHUB$/monModeleMaps**
+
+A tout moment vous pouvez voir les dépot git en local en cliquant sur l'icone **[Local]** dans la barre, et les dépot git en ligne en cliquant sur l'icone **[Remote]**
 
 ## Le modèle Netlogo 
 
