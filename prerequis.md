@@ -9,7 +9,7 @@ Installer **git** à partir de l'exécutable téléchargé sur le site web du lo
 Ouvrir un terminal, et taper ensuite la commande suivante
  `sudo apt-get install git`
  
-# Installation de SourceTREE
+# Installation du client GIT SourceTREE
 
 ## Windows et MACOSX
 
