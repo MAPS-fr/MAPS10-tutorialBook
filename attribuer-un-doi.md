@@ -14,7 +14,7 @@ https://guides.github.com/activities/citable-code/
 
 ![](/assets/zenodo_nutshell.jpg)
 
-## Connexion avec votre compte Github
+## Inscription et connexion avec votre compte Github
 
 ![](/assets/zenodo_login.jpg)
 
