@@ -15,3 +15,8 @@ https://guides.github.com/activities/citable-code/
 ![](/assets/zenodo_nutshell.jpg)
 
 ## Connexion avec votre compte Github
+
+![](/assets/zenodo_login.jpg)
+
+Si vous avez déjà créé un compte github pour le tutorial précédent, alors le plus simple sera de réutiliser celui-ci pour s'enregistrer sur Zenodo.
+
