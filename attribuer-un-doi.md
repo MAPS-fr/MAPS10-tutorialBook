@@ -57,6 +57,7 @@ Comme vous le voyez sur cette image, il faut remplir certaines informations pour
 
 Une fois publiées les _releases_ apparaissent sur la page d'accueil de votre dépot dans GitHub.
 
+![](/assets/zenodo_github_release2.jpg)
 
 
 
