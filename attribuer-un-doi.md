@@ -1,5 +1,7 @@
 # Avoir un DOI avec GitHub et Zenodo
 
+![](/assets/zenodo.jpg)
+
 Prérequis : 
 - Avoir un repository avec un modèle Netlogo sur GitHub
 - Avoir un compte GitHub
