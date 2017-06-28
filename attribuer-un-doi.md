@@ -38,5 +38,9 @@ Comme indiqué sur cette bannière, la première étape est d'activer le switch 
 
 Nous allons continuer sur la base de notre modèle MAPS publié sur le compte github dans le premier tutorial.
 
+![](/assets/zenodo_activate.jpg)
+
+
+
 
 
