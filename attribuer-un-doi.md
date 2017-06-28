@@ -42,10 +42,16 @@ Nous allons continuer sur la base de notre modèle MAPS publié sur le compte gi
 
 ![](/assets/zenodo_activate.jpg)
 
+Cliquons sur ce lien pour accéder à la création de release sur GitHub, étape nécessaire pour obtenir un DOI. 
+
+![](/assets/zenodo_getrelease.jpg)
+
+
+
+
 ## Création d'une _release_ de code source
 
 Zenodo permet de construire autant de DOI qu'il y a de _release_ de votre modèle. Une _release_ permet de mettre en avant une version particulière de votre code source. Dans le cas d'un modèle, cela peut être la version pour un article x ou y, le passage d'un code instable à stable, etc. C'est vous qui décider quand la _release_ d'un code source peut être faite, et ce qu'elle signifie.
-
 
 
 
