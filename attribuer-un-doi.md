@@ -59,6 +59,11 @@ Une fois publiées les _releases_ apparaissent sur la page d'accueil de votre d�
 
 ![](/assets/zenodo_github_release2.jpg)
 
+## Obtention du DOI
+
+Il n'y a rien de particulier à faire, Zenodo détecte automatiquement qu'une release est apparu, et va générer un DOI pour cette dernière. Cela peut prendre quelques minutes.
+
+
 
 
 
