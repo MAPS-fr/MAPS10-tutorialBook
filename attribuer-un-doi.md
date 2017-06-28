@@ -55,7 +55,8 @@ Zenodo permet de construire autant de DOI qu'il y a de _release_ de votre modèl
 
 Comme vous le voyez sur cette image, il faut remplir certaines informations pour que la _release_ puisse être faite : numéro de version, nom et description de la _release_.
 
-Une fois publiées les releases apparaissent sur la page d'accueil de votre dépot dans GitHub.
+Une fois publiées les _releases_ apparaissent sur la page d'accueil de votre dépot dans GitHub.
+
 
 
 
