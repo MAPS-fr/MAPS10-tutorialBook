@@ -69,6 +69,10 @@ Et le détail :
 
 ![](/assets/zenodo_github_DOI.jpg)
 
+Lorsque une personne clique sur le DOI que vous lui avez transmis, voici la page qui s'affiche.
+
+![](/assets/zenodo_final.jpg)
+
 
 
 
