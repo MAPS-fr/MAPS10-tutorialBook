@@ -26,3 +26,6 @@ Il vous sera proposé de vous enregistrer soit en utilisant votre compte GitHub,
 
 ![](/assets/zenodo_signup2.jpg)
 
+Une fois enregistré sur le site, vous pouvez accéder aux _settings_ concernant GitHub en cliquant sur l'onglet correspondant. 
+
+![](/assets/zenodo_settings.jpg)
