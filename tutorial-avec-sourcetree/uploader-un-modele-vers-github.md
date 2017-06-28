@@ -128,8 +128,6 @@ Nous allons maintenant tenter de recupérer les modifications faites par votre v
 
 Une fenetre s'ouvre, faite simplement **[Ok]**
 
-![](/assets/2017-06-16 23_54_03-(modified) Créer, modifier et publier un dépot git — GitBook Editor.jpg)
-
 Voilà, nous avons récupérer les modifications faites par votre voisin ! Vous pouvez consulter l'url du dépot sur github pour voir l'affichage du `README.md`
 
 ![](/assets/2017-06-16 23_55_27-AsPowerBar.jpg)
