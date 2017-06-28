@@ -34,6 +34,8 @@ Sous la bannière d'explication ci-dessous vous pouvez normalement accéder à v
 
 ![](/assets/zenodo_github_started.jpg)
 
+## Activation d'un dépôt de code source
+
 Comme indiqué sur cette bannière, la première étape est d'activer le switch du dépôt concerné par l'obtention d'un DOI sur **ON**
 
 Nous allons continuer sur la base de notre modèle MAPS publié sur le compte github dans le premier tutorial.
