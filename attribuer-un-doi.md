@@ -34,4 +34,8 @@ Sous la bannière d'explication ci-dessous vous pouvez normalement accéder à v
 
 ![](/assets/zenodo_github_started.jpg)
 
-Comme indiquer sur la bannière 
+Comme indiqué sur cette bannière, la première étape est d'activer le switch du dépôt concerné par l'obtention d'un DOI sur **ON**
+
+
+
+
