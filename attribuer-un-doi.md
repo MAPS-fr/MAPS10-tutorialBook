@@ -14,6 +14,4 @@ https://guides.github.com/activities/citable-code/
 
 ![](/assets/zenodo_nutshell.jpg)
 
-## Lier le compte GitHub et Zenodo
-
-
+## Connexion avec votre compte Github
