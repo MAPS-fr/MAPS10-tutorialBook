@@ -30,3 +30,8 @@ Une fois enregistré sur le site, vous pouvez accéder aux _settings_ concernant
 
 ![](/assets/zenodo_settings.jpg)
 
+Sous la bannière d'explication ci-dessous vous pouvez normalement accéder à vos dépôts de code source. 
+
+![](/assets/zenodo_github_started.jpg)
+
+
