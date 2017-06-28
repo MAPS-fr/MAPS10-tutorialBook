@@ -7,6 +7,13 @@ Prérequis :
 - Avoir un compte GitHub
 - Avoir un compte Zenodo
 
+Tutorial équivalent anglais, **make your code citable** with **Zenodo** and **Github** : 
+https://guides.github.com/activities/citable-code/
+
+## Zenodo in a Nutshell
+
+![](/assets/zenodo_nutshell.jpg)
+
 ## Lier le compte GitHub et Zenodo
 
 
