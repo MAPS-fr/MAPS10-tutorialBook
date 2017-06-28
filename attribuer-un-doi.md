@@ -49,9 +49,13 @@ Cliquons sur ce lien pour accéder à la création de release sur GitHub, étape
 
 ## Création d'une _release_ de code source
 
-Zenodo permet de construire autant de DOI qu'il y a de _release_ de votre modèle. Une _release_ permet de mettre en avant une version particulière de votre code source. Dans le cas d'un modèle, cela peut être la version pour un article x ou y, le passage d'un code instable à stable, etc. C'est vous qui décider quand la _release_ d'un code source peut être faite, et ce qu'elle signifie.
+Zenodo permet de construire autant de DOI qu'il y a de _release_ de votre modèle. Une _release_ permet de mettre en avant une version particulière de votre code source. Dans le cas d'un modèle, cela peut être la version pour un article x ou y, le passage d'un code instable à stable, etc. C'est vous qui décider quand la _release_ d'un code source peut être faite, et ce qu'elle signifie. Un code source peut être _release_ plusieurs fois, il n'y a pas de limites.
 
+![](/assets/zenodo_github_release.jpg)
 
+Comme vous le voyez sur cette image, il faut remplir certaines informations pour que la _release_ puisse être faite : numéro de version, nom et description de la _release_.
+
+Une fois publiées les releases apparaissent sur la page d'accueil de votre dépot dans GitHub.
 
 
 
