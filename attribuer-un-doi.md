@@ -22,4 +22,6 @@ Si vous avez déjà créé un compte github pour le tutorial précédent, alors 
 
 ![](/assets/zenodo_signup.jpg)
 
+Il vous sera proposé de vous enregistrer soit en utilisant votre compte GitHub, soit votre compte Orcid. 
+
 ![](/assets/zenodo_signup2.jpg)
